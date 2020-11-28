@@ -32,11 +32,11 @@ html {
 	font-size: 2em;
 }
 
-.icons-social i{
+.icons-social i {
 	transition:0.4s;
 }
 
-.icons-social:hover i {
+.icons-social i:hover {
 	font-size: 3em;
 }
 
