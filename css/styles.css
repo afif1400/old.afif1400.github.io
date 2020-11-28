@@ -32,6 +32,14 @@ html {
 	font-size: 2em;
 }
 
+.icons-social i{
+	transition:0.4s;
+}
+
+.icons-social:hover i {
+	font-size: 3em;
+}
+
 /* Custom Styles */
 
 main {
